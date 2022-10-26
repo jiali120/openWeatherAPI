@@ -5,7 +5,7 @@
 ##### The npm init command is used to create a Node. js project. The npm init command will create a package where the project files will be stored. All the modules you download will be stored in the package.
 * https://openweathermap.org/weather-conditions
 
-
+* api.openweathermap.org/data/2.5/weather?q=Maryland&appid=6e4a87e210348a9ec7182d2d1c7bcc59&units=metric  (use postman to make the request link)
 
 1. cd Desktop/
 2. mkdir file_name
