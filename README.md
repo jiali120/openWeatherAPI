@@ -52,3 +52,15 @@
    2.  Raw body parser
     3. Text body parser
     4. URL-encoded form body parser
+
+
+### How do I make a simple node server? Set Up and Run a Simple Node Server Project
+1. Go to the NodeJS website and download NodeJS
+2. Make sure Node and NPM are installed and their PATHs defined
+3. Create a new project folder
+4. Start running NPM in your project folder (it runs in the background)
+. Install any NPM packages we need
+6. Create an HTML file in the project folder (this is what the client will see)
+7. Create a Node/JavaScript file in the project folder (this is your server file)
+8. Run your server
+9. Visit your (local) website!
