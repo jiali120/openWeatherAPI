@@ -64,3 +64,14 @@
 7. Create a Node/JavaScript file in the project folder (this is your server file)
 8. Run your server
 9. Visit your (local) website!
+
+### 251 git  Heroku
+* follow git direction and build Procfile first, in the file code  -----     web: node name.js
+1. git init   will initialise a brand new git repository. it is a way of allowing you to save all the different versions of your app or your code.
+* git allow you to save each and every time point of your work, and you can roll back any time in the past, you can create experimental branch and mess around with your code
+
+2. git add .      add all of our files in this current repository
+
+3. git commit  it to commit our changes to this current version, it means we are starting a new version . we also can write git commit -m "First Commit" to give our first or second or thrid... file a name
+
+4. heroku create
