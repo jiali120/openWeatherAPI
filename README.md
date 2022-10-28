@@ -75,3 +75,5 @@
 3. git commit  it to commit our changes to this current version, it means we are starting a new version . we also can write git commit -m "First Commit" to give our first or second or thrid... file a name
 
 4. heroku create
+5. git push heroku master
+6. if change something in the file, we need git add . and git commit agian -m"" and git push heroku master
